@@ -1,1 +1,1 @@
-Modyfikacja z test_branch
+Finalna wersja po mergu test_branch
